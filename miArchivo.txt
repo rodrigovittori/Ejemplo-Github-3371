@@ -60,3 +60,5 @@ V 0.0.13 > Cambiamos el sistema de dtección:
 V 0.0.14 > Agregamos atributos de "muffling" o resistencia acústica a las paredes
 V 0.0.15 > Bug fix
 V 0.0.16 > Cerramos versión
+
+V 0.1.0 > Publicamos nueva versión en "main" (MERGE)

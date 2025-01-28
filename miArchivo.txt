@@ -13,3 +13,5 @@ V 0.0.05 -> Agrego Fondos
 V 0.0.06 -> Animando los fondos introducimos un bug
 
 > [ 🪳 BUG 🪳 ] <
+
+V 0.0.07 -> Agrego SFX y animaciones PJ (no noto el bug)

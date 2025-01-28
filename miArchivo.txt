@@ -18,3 +18,31 @@ Re-aplicamos:
 * efectos de sonido y animaciones del PJ
 
 LISTO nuestro código ya no tiene bugs, ¡vamos a publicarlo!
+
+**************************************************
+
+Para evitar volver a tener bugs que detengan nuestro proyecto
+
+(Un juego publicado) / (Un sitio web) / (Una app móvil)
+
+No queremos que nuestro producto no se pueda usar/acceder por un bug...
+
+Pero los bugs son casi inevitables en el proceso de desarollo...
+
+**************************************************
+
+PRESENTAMOS: Branches ("ramas")
+
+Vamos a crear una nueva rama, donde nuestro proyecto "crecerá" sin afectar
+su versión principal
+
+NOTA: Normalmente la versión principal se conoce como "main" o "master"
+
+Algunas ramas comunes son:
+
+> dev -> "desarrollo" > donde se desarrollan nuevas características
+> test -> "pruebas" > donde se testean esas características
+
+> stable/alpha/beta > versiones más estables o experimentales que se publican
+                       para tener Long-Term-Support (LTS)
+                       o bien obtener datos de distintos entornos de usuario

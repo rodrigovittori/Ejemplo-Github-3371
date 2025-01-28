@@ -9,3 +9,12 @@ V 0.0.02 -> Agrego PJ
 V 0.0.03 -> Agrego Plataformas
 V 0.0.04 -> Agrego Colisiones
 V 0.0.05 -> Agrego Fondos
+
+v 0.0.09 -> Deshice MUCHOS cambios, pero eliminé el bug
+         -> Vamos a copiar y pegar el código que NO tiene bugs
+         
+Re-aplicamos:
+* animaciones de fondos
+* efectos de sonido y animaciones del PJ
+
+LISTO nuestro código ya no tiene bugs, ¡vamos a publicarlo!

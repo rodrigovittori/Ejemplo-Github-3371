@@ -46,3 +46,17 @@ Algunas ramas comunes son:
 > stable/alpha/beta > versiones más estables o experimentales que se publican
                        para tener Long-Term-Support (LTS)
                        o bien obtener datos de distintos entornos de usuario
+                       
+**************************************************
+
+Simulamos trabajar:
+
+V 0.0.10 > Agregamos enemigos
+V 0.0.11 > Agregamos lógica de ataque
+V 0.0.12 > Agregamos lógica de patrullaje
+V 0.0.13 > Cambiamos el sistema de dtección:
+            > Ahora los enemigos pueden "escuchar" al PJ (incluso cuando no lo vé)
+
+V 0.0.14 > Agregamos atributos de "muffling" o resistencia acústica a las paredes
+V 0.0.15 > Bug fix
+V 0.0.16 > Cerramos versión

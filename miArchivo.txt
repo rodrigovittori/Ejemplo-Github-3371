@@ -6,3 +6,6 @@ Hola soy un archivo o/
 
 V 0.0.01 -> wiiiiiii
 V 0.0.02 -> Agrego PJ
+V 0.0.03 -> Agrego Plataformas
+V 0.0.04 -> Agrego Colisiones
+V 0.0.05 -> Agrego Fondos

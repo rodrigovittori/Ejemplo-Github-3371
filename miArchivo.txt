@@ -15,3 +15,4 @@ V 0.0.06 -> Animando los fondos introducimos un bug
 > [ 🪳 BUG 🪳 ] <
 
 V 0.0.07 -> Agrego SFX y animaciones PJ (no noto el bug)
+V 0.0.08 -> KAOS! ¡KAOS Y DESTRUCCIÓN! (los bugs nos están volviendo locos)

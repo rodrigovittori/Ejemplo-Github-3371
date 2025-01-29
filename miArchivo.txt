@@ -71,7 +71,7 @@ FORK: "Clonar" repositorios y contribuír
 
 TAREA PA' LA CASA: Hagan una contribución
 
-Versión actual: v 0.1.02 - Último editor: Adriano
+Versión actual: v 0.1.03 - Último editor: Eduardo
 
 Ejemplo de contribución: [** Agrego un enemigo: torreta **]
 
@@ -83,7 +83,7 @@ Contribución de Adriano: [Shaders]
 Contribución de Nicolás: []
 Contribución de Renata: []
 Contribución de Javier: []
-Contribución de Eduardo: []
+Contribución de Eduardo: [Runner]
 =======
 V 0.1.0 > Publicamos nueva versión en "main" (MERGE)
 V 0.1.01 > Habilitamos contribuciones
